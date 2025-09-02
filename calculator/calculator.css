@@ -1,0 +1,35 @@
+table {
+  border-collapse: collapse;
+}
+.dis{
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    text-align: center;
+    padding: 30px;
+    margin-left: 85.8px;
+    margin-right: 85.8px;
+}
+
+tr{
+    background-color: black;
+}
+td{
+    color: gray;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+button {
+    border-radius: 50%;
+    padding: 5px 10px;
+}
+button:hover{
+    background-color:cornsilk;
+}
+.one{
+    background-color: rgb(255, 183, 0);
+}
+.two{
+    background-color: rgb(42, 165, 140);
+}
